@@ -1,0 +1,21 @@
+= Stellaris Mod「[Fix Patch]F17 VOICEROID Portraits」
+:author: ERRORJP
+:toc: left
+:toc-title: 目次
+:sectnums:
+
+== これはなに？
+「F17 VOICEROID Portraits」にて追加された種族がランダム生成された場合に、 +
+種族名や国家名が空欄になってしまう問題を修正するためのMODです。
+
+合わせてポトレの種類が偶数種あるものについては、性別で分かれるようにしています。 +
+元のMODと同じ挙動にしたい場合は、性別なしに設定してください。
+
+本家が修正されるまでの一時凌ぎのMODのため、原則メンテナンスは実施しません。
+
+
+== 使い方
+. Steam版のStellarisをご利用の方は、以下からサブスクライブしてください。 +
+https://steamcommunity.com/sharedfiles/filedetails/?id=2759334076
+
+. 「F17 VOICEROID Portraits」の後に本MODがロードされるように、ロード順を変更してください。
