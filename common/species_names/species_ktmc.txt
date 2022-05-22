@@ -1,153 +1,153 @@
 KOTOMACH = {
-	shazarak = {
-		name = "シャザラク"# Shazarak
-		plural = "シャザラク"# Shazaraks
-		home_planet = "シャズー"# Shazuu
-		home_system = "シャズカ"# Shazka
-		name_list = "MACHINE1"
+	shazarak =  {
+		name = SPEC_Shazarak
+		plural = SPEC_Shazarak_pl
+		home_planet = SPEC_Shazarak_planet
+		home_system = SPEC_Shazarak_system
+		name_list =  "MACHINE1"
 	}
 
-	mechazur = {
-		name = "メカズル"# Mechazur
-		plural = "メカズル"# Mechazurs
-		home_planet = "メカズプライム"# "Mechaz Prime"
-		home_system = "メカズ"# Mechaz
-		name_list = "MACHINE2"
+	mechazur =  {
+		name = SPEC_Mechazur
+		plural = SPEC_Mechazur_pl
+		home_planet = SPEC_Mechazur_planet
+		home_system = SPEC_Mechazur_system
+		name_list =  "MACHINE2"
 	}
 
-	zero-zero-one = {
-		name = "ゼロゼロワン"# Zero-Zero-One
-		plural = "ゼロゼロワン"# Zero-Zero-Ones
-		home_planet = "ゼロワン"# Zero-One
-		home_system = "ゼロ"# Zero
-		name_list = "MACHINE4"
+	zero-zero-one =  {
+		name = SPEC_Zero-Zero-One
+		plural = SPEC_Zero-Zero-One_pl
+		home_planet = SPEC_Zero-Zero-One_planet
+		home_system = SPEC_Zero-Zero-One_system
+		name_list =  "MACHINE3"
 	}
 
-	prime = {
-		name = "プライム"# Prime
-		plural = "プライム"# Primes
-		home_planet = "プライムワン"# "Primus One"
-		home_system = "ベースクラスター"# "Base Cluster"
-		name_list = "MACHINE4"
+	prime =  {
+		name = SPEC_Prime
+		plural = SPEC_Prime_pl
+		home_planet = SPEC_Prime_planet
+		home_system = SPEC_Prime_system
+		name_list =  "MACHINE4"
 	}
 
-	zenak = {
-		name = "ゼナク"# Zenak
-		plural = "ゼナク"# Zenaki
-		home_planet = "ゼナク・プル"# Zenak-Pru
-		home_system = "ゼナコン"# Zenakon
-		name_list = "MACHINE1"
+	zenak =  {
+		name = SPEC_Zenak
+		plural = SPEC_Zenak_pl
+		home_planet = SPEC_Zenak_planet
+		home_system = SPEC_Zenak_system
+		name_list =  "MACHINE1"
 	}
 
-	omni = {
-		name = "オムニ"# Omni
-		plural = "オムニ"# Omni
-		home_planet = "アルファ・アレイ"# "Alpha Array"
-		home_system = "オムナク"# Omnak
-		name_list = "MACHINE2"
+	omni =  {
+		name = SPEC_Omni
+		plural = SPEC_Omni_pl
+		home_planet = SPEC_Omni_planet
+		home_system = SPEC_Omni_system
+		name_list =  "MACHINE2"
 	}
 
-	daar = {
-		name = "ダール"#DAAR
-		plural = "ダール"#DAAR
-		home_planet = "ダール-1"#DAAR-1
-		home_system = "ダールズ"#DAARUZ
-		name_list = "MACHINE3"
+	daar =  {
+		name = SPEC_DAAR
+		plural = SPEC_DAAR_pl
+		home_planet = SPEC_DAAR_planet
+		home_system = SPEC_DAAR_system
+		name_list =  "MACHINE3"
 	}
 
-	tronzaru = {
-		name = "トロンザル"# Tronzaru
-		plural = "トロンザル"# Tronzaru
-		home_planet = "トロンズ"# Tronz
-		home_system = "トロンズ・カラス"# "Tronz Karas"
-		name_list = "MACHINE4"
+	tronzaru =  {
+		name = SPEC_Tronzaru
+		plural = SPEC_Tronzaru_pl
+		home_planet = SPEC_Tronzaru_planet
+		home_system = SPEC_Tronzaru_system
+		name_list =  "MACHINE4"
 	}
 
-	techarus = {
-		name = "テカラス"# Techarus
-		plural = "テカラス"# Techarusi
-		home_planet = "テカス"# Techus
-		home_system = "テカー・ユーバス"# "Techar-Ubas"
-		name_list = "MACHINE1"
+	techarus =  {
+		name = SPEC_Techarus
+		plural = SPEC_Techarus_pl
+		home_planet = SPEC_Techarus_planet
+		home_system = SPEC_Techarus_system
+		name_list =  "MACHINE1"
 	}
 
-	jonus = {
-		name = "ジョヌス"# Jonus
-		plural = "ジョヌス"# Jonusi
-		home_planet = "ジャラ"# Jara
-		home_system = "ジェニサ"# Jenisa
-		name_list = "MACHINE2"
+	jonus =  {
+		name = SPEC_Jonus
+		plural = SPEC_Jonus_pl
+		home_planet = SPEC_Jonus_planet
+		home_system = SPEC_Jonus_system
+		name_list =  "MACHINE2"
 	}
 
-	iribot = {
-		name = "イリボット"# Iribot
-		plural = "イリボット"# Iribots
-		home_planet = "イル"# Ir
-		home_system = "イリ"# Iri
-		name_list = "MACHINE3"
+	iribot =  {
+		name = SPEC_Iribot
+		plural = SPEC_Iribot_pl
+		home_planet = SPEC_Iribot_planet
+		home_system = SPEC_Iribot_system
+		name_list =  "MACHINE3"
 	}
 
-	silicron = {
-		name = "シリクロン"# Silicron
-		plural = "シリクロン"# Silicrons
-		home_planet = "マスター・コンディット"# "Master Conduit"
-		home_system = "SI-1"
-		name_list = "MACHINE4"
+	silicron =  {
+		name = SPEC_Silicron
+		plural = SPEC_Silicron_pl
+		home_planet = SPEC_Silicron_planet
+		home_system = SPEC_Silicron_system
+		name_list =  "MACHINE4"
 	}
 
-	dekron = {
-		name = "デクロン"# Dekron
-		plural = "デクロン"# Dekrons
-		home_planet = "デクロニア"# Dekronia
-		home_system = "デクラス"# Dekrus
-		name_list = "MACHINE1"
+	dekron =  {
+		name = SPEC_Dekron
+		plural = SPEC_Dekron_pl
+		home_planet = SPEC_Dekron_planet
+		home_system = SPEC_Dekron_system
+		name_list =  "MACHINE1"
 	}
 
-	synthoid = {
-		name = "シンソイド"# Synthoid
-		plural = "シンソイド"# Synthoids
-		home_planet = "シンソン"# Synthon
-		home_system = "シンサス"# Synthus
-		name_list = "MACHINE2"
+	synthoid =  {
+		name = SPEC_Synthoid
+		plural = SPEC_Synthoid_pl
+		home_planet = SPEC_Synthoid_planet
+		home_system = SPEC_Synthoid_system
+		name_list =  "MACHINE2"
 	}
 
-	cydran = {
-		name = "シドラン"#Cydran
-		plural = "シドラン"#Cydrans
-		home_planet = "シドラス"#Cydrus
-		home_system = "タイドラル"#Tidral
-		name_list = "MACHINE3"
+	cydran =  {
+		name = SPEC_Cydran
+		plural = SPEC_Cydran_pl
+		home_planet = SPEC_Cydran_planet
+		home_system = SPEC_Cydran_system
+		name_list =  "MACHINE3"
 	}
 
-	kelbrid = {
-		name = "ケルブリッド"#Kelbrid
-		plural = "ケルブリッド"#Kelbrids
-		home_planet = "ネクサス・ゼロ"
-		home_system = "エピラ"
-		name_list = "MACHINE4"
+	kelbrid =  {
+		name = SPEC_Kelbrid
+		plural = SPEC_Kelbrid_pl
+		home_planet = SPEC_Kelbrid_planet
+		home_system = SPEC_Kelbrid_system
+		name_list =  "MACHINE4"
 	}
 
-	model-16 = {
-		name = "モデル16"#Model-16
-		plural = "モデル16"#Model-16s
-		home_planet = "主施設"
-		home_system = EN-14421
-		name_list = "MACHINE1"
+	model-16 =  {
+		name = SPEC_Model-16
+		plural = SPEC_Model-16_pl
+		home_planet = SPEC_Model-16_planet
+		home_system = SPEC_Model-16_system
+		name_list =  "MACHINE1"
 	}
 
-	nex = {
-		name = "NEX"
-		plural = "NEX"
-		home_planet = "NEXプライマス"
-		home_system = "アイポール"
-		name_list = "MACHINE2"
+	nex =  {
+		name = SPEC_NEX
+		plural = SPEC_NEX_pl
+		home_planet = SPEC_NEX_planet
+		home_system = SPEC_NEX_system
+		name_list =  "MACHINE2"
 	}
 
-	sictor = {
-		name = "ミクトル"#Mictor
-		plural = "ミクトル"#Mictors
-		home_planet = "ミクト"#Mict
-		home_system = "ミクト・ノボル"
-		name_list = "MACHINE3"
+	sictor =  {
+		name = SPEC_Mictor
+		plural = SPEC_Mictor_pl
+		home_planet = SPEC_Mictor_planet
+		home_system = SPEC_Mictor_system
+		name_list =  "MACHINE3"
 	}
 }
